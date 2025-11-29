@@ -108,8 +108,8 @@ See `examples/` folder for working examples of patch creation and application.
 
 ## License
 
-MIT License — see LICENSE file.
+Apache License — see LICENSE file.
 
 ## Contributing
 
-Open an issue or pull request! All contributions welcome.
+Open an issue or pull request! All contributions are welcome.
