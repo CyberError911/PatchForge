@@ -1,0 +1,18 @@
+# Rust
+/target/
+/**/target/
+/Cargo.lock
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

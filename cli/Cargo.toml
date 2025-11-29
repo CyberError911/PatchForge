@@ -1,0 +1,16 @@
+[package]
+name = "cli"
+version = "0.1.0"
+edition = "2021"
+authors = ["PatchForge Authors <patchforge@example.com>"]
+description = "CLI for PatchForge."
+
+[[bin]]
+name = "patchforge"
+path = "src/main.rs"
+
+[dependencies]
+core = { path = "../core" }
+clap = { version = "4.5", features = ["derive"] }
+indicatif = "0.17"
+

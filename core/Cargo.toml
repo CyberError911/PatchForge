@@ -1,0 +1,19 @@
+[package]
+name = "core"
+version = "0.1.0"
+edition = "2021"
+authors = ["PatchForge Authors <patchforge@example.com>"]
+description = "Core library for PatchForge — binary diff/patch system."
+
+[lib]
+name = "core"
+path = "src/lib.rs"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+sha2 = "0.10"
+zstd = "0.13"
+walkdir = "2.4"
+thiserror = "1.0"
+

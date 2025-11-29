@@ -1,0 +1,1 @@
+"""PatchForge GUI package placeholder."""
