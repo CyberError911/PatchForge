@@ -14,15 +14,15 @@ Create tiny patch files for ANY folder, ANY game, ANY project — no bloat, no m
 
 ## Features
 
-✅ Folder diff + binary diff (fixed-block based)  
-✅ Super small patch files (KB instead of GB)  
-✅ Zstd compression support  
-✅ Patch verification & checksums  
-✅ Progress bars during creation/application  
-✅ Error rollback on failed patches  
-✅ Cross-platform: Windows, Linux, macOS, WSL  
-✅ Clean, modular Rust codebase  
-✅ CLI + simple GUI  
+ 1. Folder diff + binary diff (fixed-block based)  
+ 2. Super small patch files (KB instead of GB)  
+ 3. Zstd compression support  
+ 4. Patch verification & checksums  
+ 5. Progress bars during creation/application  
+ 6. Error rollback on failed patches  
+ 7. Cross-platform: Windows, Linux, macOS, WSL  
+ 8. Clean, modular Rust codebase  
+ 9. CLI + simple GUI  
 
 ## Quick Start
 
