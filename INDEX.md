@@ -268,7 +268,7 @@ All documentation is included:
 - 🎯 **Just want to use it?** → [QUICKSTART.md](QUICKSTART.md)
 - 📖 **Want to understand it?** → [core/README_DIFF.md](core/README_DIFF.md)
 - 💻 **Want to code with it?** → [examples/README.md](examples/README.md)
-- 🏗️ **Want to see architecture?** → [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)
+- 🏗️ **Want to see architecture?** → [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) (coming soon)
 
 ---
 
